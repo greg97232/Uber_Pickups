@@ -12,7 +12,7 @@ To start off, Uber wants to try this feature in New York city. Therefore you wil
 
 👉👉[ Uber Trip Data ](https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Machine+Learning+non+Supervis%C3%A9/Projects/uber-trip-data.zip)👈👈  
 
-## You only need to focus on New York City for this project
+_You only need to focus on New York City for this project_  
 
 # Clustering is your friend
 Clustering technics are a perfect fit for the job. Think about it, all the pickup locations can be gathered into different clusters. You can then use cluster coordinates to pin hot zones 😉  
