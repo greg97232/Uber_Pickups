@@ -11,7 +11,7 @@ Uber already has data about pickups in major cities. Your objective is to create
 Check out [Plotly](https://plotly.com/) documentation, you can create maps and populate them easily. Obviously, there are other libraries but this one should do the job pretty well.
 
 <a href="https://plotly.com/" target="_blank">Lien vers example.com</a>
-
+<a href="https://plotly.com/" target="Fenêtre définie">Cliquez ici</a>
 
 # Deliverable 📬
 To complete this project, your team should:
