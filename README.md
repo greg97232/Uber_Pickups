@@ -10,6 +10,9 @@ Uber already has data about pickups in major cities. Your objective is to create
 # Create maps with plotly
 Check out [Plotly](https://plotly.com/) documentation, you can create maps and populate them easily. Obviously, there are other libraries but this one should do the job pretty well.
 
+<a href="https://plotly.com/" target="_blank">Lien vers example.com</a>
+
+
 # Deliverable 📬
 To complete this project, your team should:
 
