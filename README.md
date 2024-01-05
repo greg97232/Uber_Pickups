@@ -6,6 +6,9 @@ Uber already has data about pickups in major cities. Your objective is to create
 
 -  Create an algorithm to find hot zones  
 -  Visualize results on a nice dashboard
+-  
+# Create maps with plotly
+Check out [Plotly](https://plotly.com/) documentation, you can create maps and populate them easily. Obviously, there are other libraries but this one should do the job pretty well.
 
 # Deliverable 📬
 To complete this project, your team should:
