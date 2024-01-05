@@ -6,12 +6,19 @@ Uber already has data about pickups in major cities. Your objective is to create
 
 -  Create an algorithm to find hot zones  
 -  Visualize results on a nice dashboard
--  
-# Create maps with plotly
-Check out [Plotly](https://plotly.com/) documentation, you can create maps and populate them easily. Obviously, there are other libraries but this one should do the job pretty well.
+  
+# Scope of this project 🖼️
+To start off, Uber wants to try this feature in New York city. Therefore you will only focus on this city. Data can be found here:  
 
-<a href="https://plotly.com/" target="_blank">Lien vers example.com</a>
-<a href="https://plotly.com/" target="Fenêtre définie">Cliquez ici</a>
+👉👉[ Uber Trip Data ](https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Machine+Learning+non+Supervis%C3%A9/Projects/uber-trip-data.zip)👈👈  
+
+## You only need to focus on New York City for this project
+
+# Clustering is your friend
+Clustering technics are a perfect fit for the job. Think about it, all the pickup locations can be gathered into different clusters. You can then use cluster coordinates to pin hot zones 😉  
+
+# Create maps with plotly
+Check out [Plotly](https://plotly.com/) documentation, you can create maps and populate them easily. Obviously, there are other libraries but this one should do the job pretty well.  
 
 # Deliverable 📬
 To complete this project, your team should:
